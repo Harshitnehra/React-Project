@@ -89,3 +89,16 @@ function App() {
 }
 
 export default App
+
+
+// <div className='flax items-center gap-x-1'>
+//           <input 
+//           type="range"
+//           min={6}
+//           max={100}
+//           value={length}
+//           className='cursor-pointer'
+//           onChange={(e) => {setlength(e.target.value)}}
+//            />
+//            <label>length: {length}</label>
+//         </div>
